@@ -1,0 +1,67 @@
+Road and Traffic Law (Australia)
+
+Citation: Road Safety Act 1986 (Vic); Road Rules – Victoria (2017, SR No. 41/2017); Transport Integration Act 2010 (Vic); Heavy Vehicle National Law (Victoria) Act 2013 (Vic); Road Safety (Drivers) Regulations 2019 (Vic); Crimes Act 1958 (Vic)
+
+1. Legislative Structure and Objectives
+
+Road and traffic regulation in Australia operates through an integrated legal framework designed to ensure safety, efficiency, and environmental sustainability in transport systems. The Road Safety Act 1986 (Vic) (RSA) is the principal statute governing driver licensing, vehicle registration, enforcement, and road offences in Victoria. It is supported by the Road Rules – Victoria (2017), which give effect to the national model Australian Road Rules. The Transport Integration Act 2010 (Vic) provides an overarching framework for policy coherence, emphasising social and environmental sustainability, while the Heavy Vehicle National Law (Victoria) Act 2013 (Vic) aligns Victorian law with national standards for freight and logistics.
+Together, these instruments regulate every aspect of road use—from vehicle construction and maintenance to behavioural offences and liability—reflecting a comprehensive public safety approach grounded in both deterrence and education.
+
+2. Licensing, Registration, and Driver Competence
+
+Under Part 2 of the RSA, no person may drive a motor vehicle on a highway without a valid licence issued by VicRoads (now Department of Transport and Planning). Licensing categories correspond to vehicle classes, with graduated licensing for new drivers (L, P1, P2, full). Section 18 empowers VicRoads to suspend, cancel, or refuse licences on grounds including medical unfitness, demerit accumulation, or unsafe behaviour.
+The Road Safety (Drivers) Regulations 2019 (Vic) prescribe testing, renewal, and evidentiary requirements. Vehicle registration under Part 3 ensures compliance with safety and emissions standards, aligning with national vehicle design rules. Driving unregistered or uninsured vehicles constitutes an offence under s. 7 of the RSA.
+
+Driver competence and fitness are assessed through medical standards under Austroads Assessing Fitness to Drive (2022), which codifies national health-based restrictions for conditions such as epilepsy, vision impairment, and substance dependence.
+
+3. Key Offences and Enforcement Powers
+
+The RSA creates a wide range of offences encompassing dangerous driving, drink- and drug-driving, speeding, mobile phone use, and failure to wear seatbelts or helmets.
+
+Speeding is regulated under s. 65A, with penalties scaled by excess over the limit and potential licence suspension.
+
+Drink-driving (s. 49(1)(b)) prohibits driving with a blood-alcohol concentration (BAC) of 0.05 or more; lower thresholds apply to probationary and commercial drivers.
+
+Drug-driving (s. 49(1)(bb)) criminalises driving with prescribed illicit substances (e.g., THC, MDMA) detected via oral fluid testing.
+
+Dangerous or reckless driving causing death or serious injury (s. 319 of the Crimes Act 1958 (Vic)) carries penalties up to 10 years’ imprisonment.
+
+Victoria Police hold extensive enforcement powers under Part 3A, including random breath testing (RBT), drug testing, vehicle impoundment for hoon offences (s. 84S), and seizure of unroadworthy vehicles. Automated technologies such as speed and red-light cameras operate under statutory presumptions of accuracy, rebuttable by evidence of malfunction or misidentification.
+
+4. Demerit Points, Penalties, and Sanctions
+
+The demerit points system—established under s. 25 of the RSA—provides a cumulative mechanism for minor traffic infringements. Accumulation of 12 or more points within three years triggers licence suspension or good-behaviour periods. Penalties range from monetary fines to imprisonment for aggravated offences. The Infringements Act 2006 (Vic) provides administrative pathways for fine enforcement, internal review, and hardship applications.
+For corporate offenders, liability may attach to directors or fleet managers under the Heavy Vehicle National Law (HVNL) for breaches of mass, fatigue, or maintenance standards, reflecting the Chain of Responsibility (CoR) principle. This concept extends legal accountability across the logistics supply chain, reinforcing systemic compliance rather than individual blame.
+
+5. Traffic Accident Liability and Civil Remedies
+
+Civil liability for motor accidents is governed by the Transport Accident Act 1986 (Vic) (TAA), establishing the Transport Accident Commission (TAC) as a statutory insurer. The TAC provides no-fault compensation for injury or death arising from road accidents, including medical expenses, loss of earnings, and dependency benefits. Common law actions remain available where serious injury thresholds and fault are proven. Courts apply the Wrongs Act 1958 (Vic) to assess negligence and contributory fault. The High Court in Imbree v McNeilly (2008) 236 CLR 510 affirmed that the standard of care owed by drivers applies uniformly regardless of experience, reinforcing objective negligence principles.
+
+6. Road Infrastructure, Planning, and Environmental Integration
+
+The Transport Integration Act 2010 (Vic) embeds sustainability, efficiency, and equity as statutory transport system objectives (ss. 6–10). Road authorities—VicRoads, local councils, and Major Road Projects Victoria—must integrate land-use, safety, and environmental considerations in decision-making. Environmental impact assessment obligations under the Environment Effects Act 1978 (Vic) apply to major infrastructure projects.
+Noise, air pollution, and greenhouse gas emissions from vehicles are regulated under the Environment Protection Act 2017 (Vic), particularly through the Vehicle Emissions Policy Framework. Policy shifts increasingly emphasise low-emission transport, electric vehicle incentives, and road-user charging to address fiscal and ecological sustainability.
+
+7. Enforcement Technology and Procedural Justice
+
+Automated enforcement devices (speed, red-light, and point-to-point cameras) are certified under Road Safety (General) Regulations 2019 (Vic). Courts accept photographic and electronic evidence subject to calibration certificates. Defendants retain rights to challenge through statutory declarations or appeal under the Magistrates’ Court Act 1989 (Vic). The principle of procedural fairness requires that enforcement notices clearly specify offence details, evidence, and appeal rights. The Victorian Ombudsman and Fines Victoria oversee integrity in the infringements process.
+
+8. Academic and Policy Perspectives
+
+Scholars view Australian road law as a paradigm of behavioural regulation, blending deterrence, education, and infrastructure design. Research by Tranter (2022) and Douglas (2023) situates road safety within the broader context of public health law, noting that zero-tolerance enforcement and technological surveillance have significantly reduced fatalities but raised questions about equity and privacy. Policy analysts advocate a Vision Zero framework—eliminating deaths through systemic safety design rather than punitive enforcement alone. Contemporary debates centre on integrating autonomous vehicles, digital licensing, and AI-driven traffic management within existing legal frameworks.
+
+9. Cross-References
+
+Road Safety Act 1986 (Vic) — Offences, enforcement powers, demerit points
+
+Road Rules – Victoria (2017) — Model road rules, driver duties
+
+Transport Accident Act 1986 (Vic) — No-fault compensation scheme
+
+Heavy Vehicle National Law (Victoria) Act 2013 (Vic) — Chain of Responsibility
+
+Transport Integration Act 2010 (Vic) — Sustainability and planning
+
+Environment Protection Act 2017 (Vic) — Vehicle emissions regulation
+
+Crimes Act 1958 (Vic), s. 319 — Dangerous driving causing death/serious injury

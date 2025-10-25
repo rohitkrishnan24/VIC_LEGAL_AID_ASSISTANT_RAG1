@@ -1,0 +1,55 @@
+Employment Entitlements (Australia)
+
+Citation: Fair Work Act 2009 (Cth); Fair Work Regulations 2009 (Cth); Work Health and Safety Act 2011 (Cth); Equal Opportunity Act 2010 (Vic)
+
+1. Legislative Framework and Governance
+
+Australia’s employment relations system is founded on the Fair Work Act 2009 (Cth) (FWA), administered by the Fair Work Commission (FWC) and the Fair Work Ombudsman (FWO). The FWA establishes the National Employment Standards (NES), modern awards, and enterprise bargaining processes. It provides uniform protection across industries, ensuring compliance with international labour standards adopted through the International Labour Organization (ILO) conventions to which Australia is a party. The Fair Work Regulations 2009 operationalise enforcement and procedural rules, while the Work Health and Safety Act 2011 (Cth) and Equal Opportunity Act 2010 (Vic) provide supplementary protections concerning occupational safety and discrimination.
+
+2. National Employment Standards (NES)
+
+The ten NES form the statutory baseline for all employees covered by the national system. They include maximum weekly hours (38 plus reasonable additional hours: s. 62 FWA), requests for flexible work (s. 65), parental leave (52 weeks per parent, s. 70), annual leave (4 weeks, s. 87), personal and carer’s leave (10 days per year, s. 96), community service leave, long-service leave, public holidays, notice of termination, and redundancy pay. Employers cannot contract out of or diminish these minimums; any lesser term is void under s. 55.
+Modern awards and enterprise agreements may supplement but not undercut the NES. Case law, including CFMEU v BHP Coal Pty Ltd (2017), affirms that NES provisions operate as independent statutory rights enforceable by employees and unions.
+
+3. Wages, Hours, and Leave Entitlements
+
+The Fair Work Commission reviews the National Minimum Wage annually (Part 2-6 FWA). As of 2025, the adult minimum rate stands at AUD 24.10 per hour. Awards set higher industry-specific rates. Overtime attracts penalty rates specified by the relevant award or agreement.
+Annual leave accrues progressively based on ordinary hours worked and cannot generally be cashed out except under written agreement (s. 93). Personal leave protects employees during illness or family emergencies; employers may request medical evidence under s. 107. Public holiday work requires either substitution or penalty compensation.
+
+4. Termination and Unfair Dismissal
+
+Division 5 of Part 3-2 FWA provides a mechanism for employees who allege harsh, unjust, or unreasonable dismissal. To be eligible, an employee must have completed the minimum employment period (6 months, or 12 months for small businesses) and earn below the high-income threshold. Applications must be lodged within 21 days (s. 394). The FWC may order reinstatement, compensation (capped at 26 weeks’ pay), or other appropriate remedies.
+Redundancies must be genuine (s. 389) and follow consultation requirements in applicable modern awards. Cases such as Perkins v Grace Worldwide (Aust) Pty Ltd (1997) illustrate the continuing relevance of procedural fairness even within statutory regimes.
+
+5. Workplace Health, Safety and Well-being
+
+The Work Health and Safety Act 2011 (Cth) imposes a positive duty on Persons Conducting a Business or Undertaking (PCBUs) to ensure, so far as reasonably practicable, the health and safety of workers (s. 19). This includes psychological health, aligning with contemporary understandings of workplace stress and harassment. Regulators such as WorkSafe Victoria investigate incidents, issue improvement notices, and prosecute serious breaches under the Occupational Health and Safety Act 2004 (Vic). Penalties can reach AUD 3 million for corporations.
+Recent jurisprudence, including Inspector V Brisvegas Constructions (2021), underscores the expanding judicial interpretation of “reasonably practicable” in safety obligations.
+
+6. Equal Opportunity and Anti-Discrimination
+
+The Equal Opportunity Act 2010 (Vic) prohibits direct and indirect discrimination on attributes such as sex, race, disability, age, and religious belief (Part 4). At the federal level, the Sex Discrimination Act 1984 (Cth) and Disability Discrimination Act 1992 (Cth) reinforce these protections. Employers must provide reasonable adjustments unless this would impose unjustifiable hardship. Complaints may be made to the Victorian Equal Opportunity and Human Rights Commission (VEOHRC) or to the Australian Human Rights Commission (AHRC).
+Judicial decisions such as Richardson v Oracle Corporation Australia Pty Ltd (2014) demonstrate the courts’ increasing recognition of psychological harm in workplace harassment.
+
+7. Enforcement and Remedies
+
+The Fair Work Ombudsman conducts audits and prosecutions for underpayment and coercive conduct. Civil penalties under s. 546 FWA can reach AUD 93 900 per contravention (2025 values) for companies. Employees may recover unpaid wages via the Federal Circuit and Family Court of Australia or through small-claims procedures (s. 548).
+Collective bargaining and industrial action are governed by Part 3-3 FWA. Protected industrial action requires secret ballots and notice provisions; unprotected action may attract injunctions and penalties.
+Recent enforcement trends reflect increased penalties for “wage theft” under the Crimes Act 1958 (Vic) (s. 327A, inserted 2021), signalling criminalisation of deliberate underpayment.
+
+8. Policy and Academic Perspectives
+
+Academic commentary views the FWA as balancing productivity with social justice. Scholars such as Creighton and Forsyth (2022) argue that Australia’s hybrid model combines collective bargaining with individual statutory rights, promoting both flexibility and fairness. Empirical studies highlight persistent gender pay gaps and insecure work as structural issues requiring regulatory innovation.
+The Albanese Government’s “Secure Jobs, Better Pay” reforms (2022–2023) introduced multi-employer bargaining and stronger protections for gig economy workers, reflecting a policy shift toward inclusivity and adaptation to digital labour markets.
+
+9. Cross-References
+
+Fair Work Act 2009 (Cth), Parts 2-2 & 3-2
+
+Work Health and Safety Act 2011 (Cth)
+
+Equal Opportunity Act 2010 (Vic)
+
+Crimes Act 1958 (Vic) (s. 327A – Wage Theft Offence)
+
+Long Service Leave Act 2018 (Vic)

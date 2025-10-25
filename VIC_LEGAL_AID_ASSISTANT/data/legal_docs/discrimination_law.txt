@@ -1,0 +1,54 @@
+Discrimination and Equal Opportunity (Australia)
+
+Citation: Equal Opportunity Act 2010 (Vic); Racial Discrimination Act 1975 (Cth); Sex Discrimination Act 1984 (Cth); Disability Discrimination Act 1992 (Cth); Age Discrimination Act 2004 (Cth); Australian Human Rights Commission Act 1986 (Cth)
+
+1. Legislative Framework and Purpose
+
+Australia’s anti-discrimination regime is multi-layered, combining federal and state statutes that collectively seek to eliminate discrimination and promote substantive equality. The Equal Opportunity Act 2010 (Vic) (EOA 2010) is Victoria’s principal instrument, prohibiting discrimination, sexual harassment, and victimisation across public life, including employment, education, accommodation, and service provision. Federally, complementary laws—such as the Racial Discrimination Act 1975 (Cth), Sex Discrimination Act 1984 (Cth), Disability Discrimination Act 1992 (Cth), and Age Discrimination Act 2004 (Cth)—extend protections nationwide. The Australian Human Rights Commission Act 1986 (Cth) (AHRC Act) establishes the Australian Human Rights Commission, which administers these Commonwealth instruments.
+
+The legislative objective is not merely prohibitory but transformative: to shift organisational culture, embed fairness, and advance equality of opportunity. Victoria’s EOA 2010 introduces a positive duty (s. 15) requiring organisations to take proactive and reasonable measures to eliminate discrimination, sexual harassment, and victimisation, reflecting an evolution from complaint-driven to systemic prevention models.
+
+2. Grounds and Areas of Discrimination
+
+Under Part 2 of the EOA 2010, it is unlawful to discriminate on 19 protected attributes, including age, sex, race, disability, marital status, parental status, religion, gender identity, and sexual orientation. Discrimination may be direct, where a person is treated less favourably due to an attribute, or indirect, where a seemingly neutral rule disproportionately disadvantages a group (s. 9). Indirect discrimination is excused only if the rule is reasonable in the circumstances.
+
+The Act applies across employment, education, provision of goods and services, accommodation, clubs, and sport. For instance, denying access to housing because of disability constitutes direct discrimination, while requiring full-time work availability may amount to indirect discrimination against parents or carers. Federally, the Sex Discrimination Act 1984 (Cth) prohibits sexual harassment and pregnancy discrimination; the Disability Discrimination Act 1992 (Cth) requires reasonable adjustments to ensure access; and the Racial Discrimination Act 1975 (Cth) outlaws racial vilification and discriminatory acts by government agencies.
+
+3. Sexual Harassment and Victimisation
+
+Sexual harassment is defined in s. 92 of the EOA 2010 and Part II of the Sex Discrimination Act 1984 (Cth) as unwelcome conduct of a sexual nature that makes a person feel offended, humiliated, or intimidated. It encompasses physical, verbal, and online behaviours. The Respect@Work reforms (2022), arising from the Australian Human Rights Commission’s National Inquiry, introduced a positive duty on employers under s. 47C of the Sex Discrimination Act 1984 (Cth) to take reasonable and proportionate measures to prevent sexual harassment, sex-based harassment, and hostile workplace environments. Victimisation—retaliating against a person for asserting their rights or participating in proceedings—is prohibited under s. 103 of the EOA 2010 and corresponding federal provisions.
+
+4. Reasonable Adjustments and Disability Rights
+
+The Disability Discrimination Act 1992 (Cth) (DDA) and s. 20 of the EOA 2010 impose an obligation on employers, educators, and service providers to make reasonable adjustments to accommodate people with disabilities, unless doing so would impose unjustifiable hardship. This extends to physical accessibility, flexible work arrangements, and provision of auxiliary aids. The Disability Standards for Education 2005 and Disability Standards for Accessible Public Transport 2002 provide further specificity. Case law such as Walker v State of Victoria (2011) has clarified that failure to provide reasonable adjustments can amount to discrimination, even without intent.
+
+5. Institutional Mechanisms and Remedies
+
+At the Victorian level, the Victorian Equal Opportunity and Human Rights Commission (VEOHRC) administers the EOA 2010. It conducts investigations, conciliation, and public education, and may issue compliance reviews under the positive duty provisions. Unresolved complaints may proceed to the Victorian Civil and Administrative Tribunal (VCAT), which can order apologies, compensation, or policy reforms.
+Federally, the Australian Human Rights Commission (AHRC) performs analogous functions under the AHRC Act. Conciliation outcomes are confidential; unresolved matters may be taken to the Federal Court or Federal Circuit and Family Court for determination. Remedies include damages, injunctions, and declaratory relief.
+
+6. Special Measures and Lawful Exceptions
+
+Both the EOA 2010 (Part 4, Division 1) and federal Acts permit “special measures” designed to promote substantive equality. These measures, sometimes called “affirmative action,” are lawful if they aim to redress disadvantage or achieve genuine equality for a protected group. For example, gender-specific scholarships in STEM fields or targeted employment programs for Indigenous Australians are permissible. The Act also recognises exceptions such as religious bodies’ rights to act in accordance with faith doctrines (s. 82) and inherent occupational requirements (s. 26). Such exceptions remain controversial, with current reform proposals seeking to balance religious freedom with equality principles.
+
+7. Case Law and Enforcement Trends
+
+Judicial interpretation continues to refine the scope of discrimination law. In Richardson v Oracle Corporation Australia Pty Ltd (2014), the Federal Court increased damages for sexual harassment, recognising psychological harm and loss of dignity as compensable. In Thorne v Kennedy (2017), the High Court highlighted the intersection between unconscionable conduct and gendered power imbalance in contractual contexts. Victorian decisions—such as Matthews v Winslow Constructors (2015)—have broadened the definition of workplace victimisation and employer liability. Enforcement trends show increasing focus on systemic reviews, employer training, and proactive compliance.
+
+8. Academic and Policy Perspectives
+
+Academic literature interprets Australia’s equality law as evolving from a reactive complaint-based system toward a preventive, systemic regulation model. Hunter (2022) and Thornton (2023) note the paradigm shift introduced by the positive duty provisions, aligning Australian practice with international norms such as the UK’s Equality Act 2010. Policy debates revolve around balancing expressive justice (symbolic recognition of harm) with regulatory pragmatism. Empirical research indicates that the success of equality law depends on sustained institutional capacity, cultural change, and intersectional awareness addressing compound disadvantage. The move toward integrating human rights, discrimination, and workplace safety frameworks marks a significant step in mainstreaming equality governance.
+
+9. Cross-References
+
+Equal Opportunity Act 2010 (Vic) — Positive Duty (s. 15); Sexual Harassment (s. 92); Exceptions (Part 4)
+
+Racial Discrimination Act 1975 (Cth)
+
+Sex Discrimination Act 1984 (Cth) — Respect@Work reforms, Positive Duty (s. 47C)
+
+Disability Discrimination Act 1992 (Cth) — Reasonable Adjustments (s. 20)
+
+Australian Human Rights Commission Act 1986 (Cth) — Complaint Handling and Enforcement
+
+Victorian Civil and Administrative Tribunal Act 1998 (Vic) — Remedies and Appeals

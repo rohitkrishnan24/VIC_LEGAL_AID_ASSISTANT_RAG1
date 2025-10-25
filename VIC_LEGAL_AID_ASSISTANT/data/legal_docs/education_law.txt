@@ -1,0 +1,57 @@
+Education Law (Australia)
+
+Citation: Education and Training Reform Act 2006 (Vic); Disability Discrimination Act 1992 (Cth); Australian Education Act 2013 (Cth); Charter of Human Rights and Responsibilities Act 2006 (Vic); Equal Opportunity Act 2010 (Vic)
+
+1. Legislative Framework and Jurisdictional Context
+
+Education in Australia is governed through a cooperative federal model, combining Commonwealth funding oversight with state legislative authority. The Education and Training Reform Act 2006 (Vic) (ETRA) is the principal statute regulating Victorian schools, early childhood services, vocational education and training (VET), and higher education institutions. It establishes legal frameworks for curriculum, student welfare, school governance, teacher registration, and institutional accountability.
+At the national level, the Australian Education Act 2013 (Cth) prescribes funding arrangements, performance standards, and the National School Reform Agreement, tying Commonwealth financial assistance to educational outcomes. The Disability Discrimination Act 1992 (Cth) (DDA) and the Equal Opportunity Act 2010 (Vic) ensure equitable access to education for students with disabilities and other protected attributes. Together, these statutes constitute a rights-based, standards-driven model aligned with Australia’s human rights obligations under the International Covenant on Economic, Social and Cultural Rights (ICESCR).
+
+2. Rights to Education and Non-Discrimination
+
+Section 2.1.1 of the ETRA affirms that “every child has the right to attend a government school free of charge” until completion of Year 12 or equivalent. The Charter of Human Rights and Responsibilities Act 2006 (Vic) reinforces this entitlement under s. 8 (recognition and equality before the law) and s. 17(2), which protects the rights of every child to protection and development. Non-discrimination obligations are further embedded in s. 38 of the Charter, binding all public authorities—including schools—to act compatibly with human rights.
+The Disability Standards for Education 2005, made under the DDA, provide detailed guidance on enrolment, participation, curriculum access, and reasonable adjustments. Schools must consult affected students and parents, implement support plans, and regularly review accommodations. Failure to provide reasonable adjustments constitutes discrimination unless it would impose unjustifiable hardship. Cases such as Finney v Hills Grammar School (1999) and Walker v State of Victoria (2011) demonstrate the judiciary’s willingness to enforce equality norms within educational settings.
+
+3. Governance, Accountability, and Funding
+
+The Victorian Department of Education administers the ETRA framework through a system of government, Catholic, and independent schools. Government schools are established under s. 2.2.2, governed by principals and school councils with defined decision-making powers. The Victorian Registration and Qualifications Authority (VRQA) regulates registration, quality assurance, and compliance for all education providers.
+At the federal level, the Australian Education Act 2013 (Cth) introduces a needs-based funding model derived from the Schooling Resource Standard (SRS), adjusted for socio-economic status, location, and student disadvantage. Accountability mechanisms—such as the My School platform and the National Assessment Program–Literacy and Numeracy (NAPLAN)—embed transparency and performance measurement, though critics question their impact on educational equity.
+
+4. Teacher Registration, Professional Conduct, and Employment Law Interface
+
+The Education and Training Reform Act 2006 (Vic) establishes the Victorian Institute of Teaching (VIT) as the statutory body for teacher registration and professional standards. Teachers must demonstrate fitness to teach, ethical integrity, and ongoing professional learning. Misconduct, incompetence, or breaches of child safety obligations may result in suspension or cancellation of registration (Part 2.6). Mandatory reporting obligations under the Children, Youth and Families Act 2005 (Vic) intersect with educators’ professional duties, reinforcing child protection as an ethical and legal imperative.
+Employment relations for teachers are governed by the Fair Work Act 2009 (Cth) and sector-specific enterprise agreements, which stipulate workload, pay, and grievance procedures. The interface between employment and education law is evident in disciplinary and termination processes for misconduct, which must comply with both procedural fairness and industrial obligations.
+
+5. Student Welfare, Safety, and Discipline
+
+Victorian schools owe a duty of care to students, arising from both common law and statutory provisions. The Education and Training Reform Regulations 2017 (Vic) prescribe student welfare standards, including health, safety, and behaviour management. Discipline policies must be consistent with the principles of natural justice and proportionality. Expulsion decisions under Ministerial Order No. 1125 (Procedures for Suspension and Expulsion of Students in Government Schools) require procedural fairness, notification of rights, and review mechanisms. The Victorian Ombudsman and VCAT provide external oversight where procedural deficiencies or discrimination claims arise.
+Emerging policy areas include cyberbullying and online safety, governed by the Online Safety Act 2021 (Cth), which empowers the eSafety Commissioner to require removal of harmful digital content involving minors.
+
+6. Inclusion and Disability Support
+
+The Disability Standards for Education 2005 articulate four pillars of inclusion: access, participation, curriculum adjustment, and support services. Schools must adopt Individual Education Plans (IEPs) and, where necessary, engage integration aides or specialist support staff. The Program for Students with Disabilities (PSD) and the Disability Inclusion Reform (2021–2025) initiative enhance funding and data-driven accountability.
+Case law such as Sievwright v State of Victoria (2012) illustrates evolving expectations for inclusion—courts increasingly view systemic exclusion as inconsistent with both the DDA and the ETRA. Policy trends emphasise universal design for learning (UDL) and early intervention as cost-effective strategies for equality.
+
+7. Higher and Vocational Education
+
+Higher education in Victoria operates under the Tertiary Education Quality and Standards Agency Act 2011 (Cth) (TEQSA Act) and the Higher Education Support Act 2003 (Cth). These Acts regulate quality, accreditation, and Commonwealth funding. Vocational Education and Training (VET) is integrated within the ETRA under Part 3.1, with the Victorian Skills Authority (VSA) overseeing training providers, apprenticeships, and workforce alignment.
+Students in higher education enjoy statutory protections under the Australian Consumer Law concerning quality of service and misleading representations, as confirmed in ACCC v Phoenix Institute of Australia Pty Ltd (2017), where false representations about course outcomes led to significant penalties.
+
+8. Academic and Policy Perspectives
+
+Scholars characterise Australia’s education law as balancing three imperatives: access and equity, accountability, and autonomy. Legal theorists such as Rice (2023) and Cumming (2022) highlight the tension between centralised standardisation (through NAPLAN and funding agreements) and local diversity in curriculum and pedagogy. Academic literature advocates a rights-based framework integrating equality law, administrative review, and socio-economic justice to achieve inclusive education.
+Debates also address the corporatisation of schooling and the “performance audit culture,” where data-driven accountability risks narrowing educational purpose. Recent reforms in Victoria reflect a shift towards evidence-based, student-centred regulation that recognises both educational outcomes and well-being as legal interests.
+
+9. Cross-References
+
+Education and Training Reform Act 2006 (Vic) — s. 2.1.1 (Right to Free Education); Part 2.6 (Teacher Registration)
+
+Australian Education Act 2013 (Cth) — Funding and National Standards
+
+Disability Discrimination Act 1992 (Cth) — Reasonable Adjustments and Standards for Education 2005
+
+Equal Opportunity Act 2010 (Vic) — Anti-Discrimination in Education
+
+Charter of Human Rights and Responsibilities Act 2006 (Vic) — s. 8, s. 17
+
+Online Safety Act 2021 (Cth) — Cyberbullying and Digital Safety

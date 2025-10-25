@@ -1,0 +1,57 @@
+Environmental Law (Australia)
+
+Citation: Environment Protection Act 2017 (Vic); Environment Protection and Biodiversity Conservation Act 1999 (Cth); Environment Effects Act 1978 (Vic); Planning and Environment Act 1987 (Vic); Circular Economy (Waste Reduction and Recycling) Act 2021 (Vic)
+
+1. Legislative Architecture and Objectives
+
+Environmental governance in Australia operates through a layered framework in which Commonwealth and State instruments perform complementary roles. In Victoria, the Environment Protection Act 2017 (Vic) (EP Act 2017) establishes a modern, risk-based regime for preventing and managing environmental harm. Federally, the Environment Protection and Biodiversity Conservation Act 1999 (Cth) (EPBC Act) safeguards “matters of national environmental significance” (MNES)—including listed threatened species, migratory species, World Heritage and National Heritage properties, and Ramsar wetlands—through an assessment and approval system. The Victorian Environment Effects Act 1978 (Vic) provides for environmental impact assessment (EIA) of major projects with significant state impacts, while the Planning and Environment Act 1987 (Vic) integrates environmental considerations into land-use planning. The Circular Economy (Waste Reduction and Recycling) Act 2021 (Vic) advances product stewardship, resource recovery, and market transformation to reduce waste and emissions.
+
+2. General Environmental Duty and Risk-Based Regulation (Victoria)
+
+A central innovation of the EP Act 2017 is the General Environmental Duty (GED), which imposes a continuous obligation on persons conducting activities that may give rise to risks of harm to human health or the environment to minimise those risks so far as reasonably practicable. The GED reframes compliance from reactive pollution control to proactive risk management, requiring duty-holders to identify hazards, implement and maintain controls proportionate to risk, and continuously improve environmental performance. The regime is supported by subordinate Regulations and Compliance Codes/Permissions (licences, permits, and registrations) that scale regulatory requirements to the nature and magnitude of risk (e.g., development licences for high-risk facilities, operating licences for prescribed activities).
+
+EPA Victoria administers the system using graduated compliance tools—advisory letters, improvement notices, prohibition notices, enforceable undertakings, civil penalty proceedings, and (for serious or reckless contraventions) prosecution. Public registers of permissions and enforcement actions strengthen transparency and community oversight.
+
+3. Waste, Pollution, and Contamination Controls
+
+The Victorian framework is media-neutral, addressing emissions to air, land and water, noise, odour, and waste. It embeds the waste hierarchy—avoidance, reuse, recycling, energy recovery, disposal—as a normative ordering for decision-making and investment. Industrial and commercial generators must characterise wastes, consign prescribed wastes appropriately, and ensure transporters and receivers are authorised. The circular economy statute complements these duties by enabling product stewardship schemes, container deposit systems, and coordinated procurement to stimulate secondary materials markets.
+
+For contaminated land, the EP Act 2017 establishes duties to manage and, in specified circumstances, notify contamination posing material risk of harm. Statutory environmental audits provide assurance about the condition of land and the suitability of uses, frequently imposed as planning conditions or lender requirements. Where pollution incidents occur, immediate duties to respond, contain, and remediate apply, with EPA empowered to recover clean-up costs from responsible parties.
+
+4. Environmental Impact Assessment and Planning Interfaces
+
+Projects likely to have significant effects on the environment may be subject to an Environment Effects Statement (EES) process under the Environment Effects Act 1978 (Vic), coordinated by the Victorian Department of Transport and Planning. The EES evaluates alternatives, mitigation measures, and residual impacts and is typically integrated with planning scheme amendments or works approvals.
+
+At the Commonwealth level, actions that may significantly impact an MNES must be referred under the EPBC Act for a controlled-action decision. If controlled, the action undergoes assessment (by accredited state processes, public environment reports, or environmental impact statements) and may only proceed subject to federal approval conditions. Proponents often navigate bilateral assessment/accreditation arrangements to streamline state–federal processes, yet the EPBC approval remains a distinct, justiciable decision.
+
+5. Compliance, Liability, and Remedies
+
+Victorian compliance employs a proportionate enforcement model, privileging prevention and deterrence. Breach of the GED or permissions can attract civil penalties, enforceable undertakings, or injunctive relief. In egregious cases involving wilful or negligent conduct, criminal sanctions are available. EPA may issue improvement or prohibition notices to manage imminent risks, and clean-up notices to secure remediation. Cost-recovery powers incentivise polluters to internalise environmental externalities.
+
+Affected persons may seek review of specified EPA decisions at the Victorian Civil and Administrative Tribunal (VCAT) or the Victorian courts, depending on the decision type. Federally, EPBC Act approval decisions are amenable to judicial review under the Administrative Decisions (Judicial Review) Act 1977 (Cth) or s 39B of the Judiciary Act 1903 (Cth), focusing on legality (procedural fairness, relevant considerations, jurisdictional error) rather than merits.
+
+6. Strategic, Cumulative, and Climate-Related Assessment
+
+Policy development increasingly addresses cumulative impacts, climate-risk disclosure, and nature-positive outcomes. Victoria’s planning and environment statutes are read alongside the Climate Change Act 2017 (Vic), which embeds emission-reduction targets and decision-making principles into governmental functions. While the EPBC Act historically focused on MNES, contemporary reform proposals emphasise regional planning, environmental offsets quality, and improved data and monitoring to ensure that approvals deliver measurable outcomes. Sectoral guidance (e.g., for renewable energy, waste-to-energy, and major transport projects) operationalises strategic objectives at project level.
+
+7. Community Participation, Transparency, and Environmental Justice
+
+Public participation is integral to legitimacy and effectiveness. The EES and planning processes mandate public exhibition, submissions, and (often) panel hearings. EPA maintains public registers of permissions, audits, and enforcement actions, enabling community scrutiny. Environmental justice concerns—distribution of burdens and benefits, proximity of high-impact uses to vulnerable communities, and procedural equity—now inform regulatory practice, including targeted compliance in pollution “hotspots” and support for community monitoring.
+
+8. Academic and Policy Perspectives
+
+Scholars characterise Victoria’s shift to the GED as a paradigmatic move from command-and-control to risk-governance, aligning with international best practice. Empirical studies suggest prevention-focused duties can reduce incidents and compliance costs when paired with credible enforcement and clear guidance. Critiques emphasise implementation challenges—data quality, cumulative impact assessment, and ensuring offsets achieve no-net-loss outcomes. At the federal level, commentators call for EPBC reform to address biodiversity decline, strengthen independent oversight, and modernise information systems. The integration of circular economy policy with pollution regulation is viewed as essential to decarbonisation and resource productivity.
+
+9. Cross-References
+
+Environment Protection Act 2017 (Vic) — General Environmental Duty; permissions; notices; civil/criminal enforcement
+
+Environment Protection and Biodiversity Conservation Act 1999 (Cth) — MNES referrals, assessments, approvals
+
+Environment Effects Act 1978 (Vic) — EES processes for major projects
+
+Planning and Environment Act 1987 (Vic) — Planning permits, scheme amendments, conditions
+
+Climate Change Act 2017 (Vic) — Emissions targets and decision-making principles
+
+Circular Economy (Waste Reduction and Recycling) Act 2021 (Vic) — Product stewardship and container deposit scheme

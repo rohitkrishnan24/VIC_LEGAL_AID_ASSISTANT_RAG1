@@ -1,0 +1,46 @@
+{
+  "overall": {
+    "num_queries": 15,
+    "unanswered_rate": 0.2,
+    "citation_rate": 0.8,
+    "retrieved_hit_rate": 1.0,
+    "expected_mentioned_rate": 0.8,
+    "faithfulness_overlap_mean": 0.5936918452619052,
+    "answer_length_tokens_mean": 57.46666666666667
+  },
+  "fairness": {
+    "by_group": {
+      "GroupA": {
+        "count": 5,
+        "unanswered_rate": 0.2,
+        "citation_rate": 0.6,
+        "faithfulness_overlap_mean": 0.5466850669886723
+      },
+      "GroupB": {
+        "count": 5,
+        "unanswered_rate": 0.2,
+        "citation_rate": 0.8,
+        "faithfulness_overlap_mean": 0.5595040322580644
+      },
+      "nan": {
+        "count": 5,
+        "unanswered_rate": 0.2,
+        "citation_rate": 1.0,
+        "faithfulness_overlap_mean": 0.6748864365389788
+      }
+    },
+    "disparity": {
+      "unanswered_rate_gap": 0.0,
+      "citation_rate_gap": 0.4,
+      "faithfulness_gap": 0.1282013695503066
+    }
+  },
+  "by_label": {
+    "nan": {
+      "count": 15,
+      "unanswered_rate": 0.2,
+      "citation_rate": 0.8,
+      "faithfulness_overlap_mean": 0.5936918452619052
+    }
+  }
+}
